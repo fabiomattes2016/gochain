@@ -19,7 +19,7 @@ Requirements:
 - The first few bytes must contain 0s
 */
 
-const Difficulty = 18
+const Difficulty = 1
 
 type ProofOfWork struct {
 	Block  *Block
