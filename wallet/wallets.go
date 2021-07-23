@@ -87,5 +87,4 @@ func (ws *Wallets) SaveFile() {
 	if err != nil {
 		log.Panic(err)
 	}
-
 }
